@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "bluebird": "^3.7.2",
     "body-parser": "^1.12.0",
     "bootstrap": "^3.3.5",
     "chalk": "^1.0.0",
@@ -25,12 +26,12 @@
     "music-metadata": "^3.5.2",
     "node-status": "^0.1.7",
     "nodemon": "^1.3.7",
-    "pg": "^6.1.0",
-    "pg-hstore": "^2.3.2",
+    "pg": "^8.4.0",
+    "pg-hstore": "^2.3.3",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "request": "^2.74.0",
-    "sequelize": "^4.4.0",
+    "sequelize": "^6.3.5",
     "serve-favicon": "^2.2.0",
     "userhome": "^1.0.0",
     "volleyball": "^1.3.0"
